@@ -1,0 +1,27 @@
+{
+  "name": "platzi-intro-solidity",
+  "version": "1.0.0",
+  "description": "code used in platzi's introduction to solidity course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taco72/platzi-intro-solidity.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum"
+  ],
+  "author": "Taco72",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taco72/platzi-intro-solidity/issues"
+  },
+  "homepage": "https://github.com/taco72/platzi-intro-solidity#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  }
+}
