@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0 <0.9.0;
 
-/* if the import shows an error on vscode remember to npm install @openzeppelin/contracts */
+// remember to $ npm install @openzeppelin/contracts
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 
 contract Import {
